@@ -1,0 +1,82 @@
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  margin: 0;
+}
+.name-heighlight {
+  color: coral;
+}
+.button-style {
+  text-decoration: none;
+  padding: 5px 10px 15px;
+  background-image: linear-gradient(lightsalmon, tomato);
+  border-radius: 6px;
+  font-size: 15px;
+  color: white;
+  font-weight: 700;
+}
+a:hover {
+  color: red;
+  font-size: 17px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+}
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 30px;
+}
+.half-width img {
+  width: 100%;
+}
+.intoduction {
+  background-image: url(./images/header-bg.png);
+  background-repeat: no-repeat;
+  padding-left: 5px;
+  margin-left: 2px;
+}
+section {
+  height: 400px;
+  clear: both;
+}
+.biography {
+  background-image: url(./images/biography-bg.png);
+  background-repeat: no-repeat;
+  padding-left: 5px;
+  margin-left: 2px;
+  background-position: left;
+}
+.half-third {
+  width: 30%;
+  float: left;
+  padding-left: 4px;
+  margin-left: 2px;
+}
+.half-third img {
+  width: 100%;
+}
+h3 {
+  font-size: 20px;
+}
+.clint-salified {
+  background-image: url(./images/latest-work-bg.png);
+  background-repeat: no-repeat;
+  text-align: center;
+}
+p {
+  color: dimgray;
+  font-size: 15px;
+}
+
+footer {
+  text-align: center;
+  font-weight: 500;
+  color: dimgray;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+}
